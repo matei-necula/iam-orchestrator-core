@@ -1,0 +1,44 @@
+Source-Available Evaluation License
+
+Copyright (c) 2026 Orchestrator. All rights reserved.
+
+The source code, documentation, and other materials in this repository
+(the "Materials") are made available solely for the purpose of evaluating
+the closed-source iam-orchestrator product as a prospective customer.
+
+By accessing, viewing, downloading, or otherwise interacting with the
+Materials you agree to the following:
+
+1. EVALUATION USE ONLY. You may read, review, and analyse the Materials
+   for the sole purpose of assessing whether to procure or license the
+   iam-orchestrator product.
+
+2. NO REPRODUCTION. You may not reproduce, distribute, publish, host,
+   mirror, fork, or otherwise make the Materials available to any third
+   party, in whole or in part.
+
+3. NO DERIVATIVES. You may not modify, adapt, translate, port, or create
+   derivative works based on the Materials.
+
+4. NO COMMERCIAL OR PRODUCTION USE. You may not use the Materials, in
+   whole or in part, in any product, service, internal tool, training
+   dataset, fine-tuning corpus, or other operational context.
+
+5. NO REVERSE ENGINEERING FOR REUSE. You may not extract or transcribe
+   proprietary logic, policies, schemas, or designs for use in any
+   product or service other than the iam-orchestrator product.
+
+6. CONFIDENTIALITY OF FINDINGS. Security findings discovered during
+   evaluation shall be reported privately to the maintainer and not
+   publicly disclosed until coordinated remediation.
+
+For any use beyond the scope of this Evaluation License (including
+academic, research, integration, or commercial use), please contact the
+maintainer in advance for a written agreement.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+MATERIALS OR THEIR USE.
