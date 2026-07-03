@@ -1,8 +1,8 @@
 # iam-orchestrator-core
 
-> Security primitives of the [Orchestrator](https://iam-orchestrator.pages.dev) IAM platform — open for evaluation.
+> Security primitives of the [Orchestrator](https://iamorchestrator.com/) IAM platform — open for evaluation.
 
-This repository is a **source-available review copy** of the security-load-bearing components of the closed-source [iam-orchestrator](https://iam-orchestrator.pages.dev) product. It exists so prospective customers can read the OPA policies, the packet-signing implementation, and the tamper-evident audit chain *before* signing anything.
+This repository is a **source-available review copy** of the security-load-bearing components of the closed-source [iam-orchestrator](https://iamorchestrator.com/) product. It exists so prospective customers can read the OPA policies, the packet-signing implementation, and the tamper-evident audit chain *before* signing anything.
 
 It is **not a working build.** It is a curated subset of files lifted from the production codebase, with the closed-source service tree, customer configuration, and deployment infrastructure deliberately excluded.
 
@@ -38,7 +38,7 @@ By design, this repository **excludes**:
 - Internal documentation, runbooks, incident notes
 - Commit history (this is a fresh-init repo; the closed-source history stays closed)
 
-If reading any of the included files raises a question about how a primitive is wired into the broader system, ask via the [pilot application form](https://iam-orchestrator.pages.dev/#cta) — happy to walk through it on a call.
+If reading any of the included files raises a question about how a primitive is wired into the broader system, ask via the [pilot application form](https://iamorchestrator.com/) — happy to walk through it on a call.
 
 ## Runnable parts
 
@@ -57,7 +57,7 @@ Expected: all tests pass. Each test exercises a specific allow / HITL / block ca
 
 The `.py` files under `signing/`, `audit/`, and `policy-helpers/` are excerpts. They reference `shared.utils.*` and `services.*` modules that aren't included here, so they will not import cleanly in isolation. They're meant for code review, not execution.
 
-If you want to see them running, request a screen-share demo via the [pilot application form](https://iam-orchestrator.pages.dev/#cta).
+If you want to see them running, request a screen-share demo via the [pilot application form](https://iamorchestrator.com/).
 
 ## Dev/prod boundary
 
@@ -80,7 +80,7 @@ Source-available, evaluation-only. See [LICENSE](./LICENSE). Briefly:
 
 This repository does not accept pull requests — it is a published view of the upstream closed-source codebase, not a community project.
 
-**Security findings** should be reported privately via the [pilot application form](https://iam-orchestrator.pages.dev/#cta) with the subject "security disclosure". We acknowledge within 72 hours and follow a coordinated disclosure process.
+**Security findings** should be reported privately via the [pilot application form](https://iamorchestrator.com/) with the subject "security disclosure". We acknowledge within 72 hours and follow a coordinated disclosure process.
 
 ## Related
 
