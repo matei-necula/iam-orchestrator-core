@@ -84,8 +84,8 @@ This repository does not accept pull requests — it is a published view of the 
 
 ## Related
 
-- **Marketing site:** https://iam-orchestrator.pages.dev
-- **How it works:** https://iam-orchestrator.pages.dev/how-it-works
-- **Security model:** https://iam-orchestrator.pages.dev/security
-- **Integrations:** https://iam-orchestrator.pages.dev/integrations
-- **Pricing:** https://iam-orchestrator.pages.dev/pricing
+- **Marketing site:** https://iamorchestrator.com/
+- **How it works:** https://iamorchestrator.com/how-it-works
+- **Security model:** https://iamorchestrator.com/security
+- **Integrations:** https://iamorchestrator.com/integrations
+- **Pricing:** https://iamorchestrator.com/pricing
